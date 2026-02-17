@@ -1,0 +1,5 @@
+{
+  "name": "BharatCarbon - Indian Carbon Footprint Calculator",
+  "description": "A comprehensive carbon footprint calculator specifically designed for Indian consumption patterns, providing localized insights and AI-powered reduction strategies using the Gemini API.",
+  "requestFramePermissions": []
+}
